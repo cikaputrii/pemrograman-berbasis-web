@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: "Roboto", serif;
+}
+
+h1 {
+   text-align: center;
+   font-weight:500;
+}
+
+label {
+    margin-left: 250px;
+}
+
+input {
+    margin-left: 250px;
+    width: 800px;
+}
+
+input[type="radio"] {
+    width: 10px;
+}
+
+textarea {
+    margin-left: 250px;
+    width: 800px;
+    padding-bottom: 30px;
+}
+
+select{
+    margin-left: 250px;
+    width: 800px;
+}
+
+button{
+    margin-left: 250px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: dodgerblue;
+    color: white;
+}
+
+button:hover{
+    margin-left: 250px;
+    background-color:darkblue;
+}
